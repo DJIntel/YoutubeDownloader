@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/MP4"
+        android:id="@+id/MP4"
+        android:onClick="onClickFormatButton" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/WebM"
+        android:id="@+id/WebM"
+        android:onClick="onClickFormatButton" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/FLV"
+        android:id="@+id/FLV"
+        android:onClick="onClickFormatButton" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/GPP"
+        android:id="@+id/GPP"
+        android:onClick="onClickFormatButton" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/MP3"
+        android:id="@+id/MP3"
+        android:onClick="onClickFormatButton" />
+
+</LinearLayout>

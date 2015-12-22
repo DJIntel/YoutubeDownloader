@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Youtube Downloader</string>
+    <string name="CheckVideo">Sprawdź video</string>
+    <string name="PasteYoutubeLink">Wklej link z youtuba:</string>
+    <string name="format">Format</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="MP4">MP4</string>
+    <string name="Checking">Sprawdzanie...</string>
+    <string name="FLV">FLV</string>
+    <string name="GPP">3GPP</string>
+    <string name="MP3">MP3</string>
+    <string name="SelFormat">Wybiezr format</string>
+    <string name="WebM">WebM</string>
+</resources>

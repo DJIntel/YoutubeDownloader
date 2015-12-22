@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Youtube Downloader</string>
+    <string name="CheckVideo">Check video</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="format">Format</string>
+    <string name="SelFormat">Select format</string>
+    <string name="MP4">MP4</string>
+    <string name="WebM">WebM</string>
+    <string name="FLV">FLV</string>
+    <string name="MP3">MP3</string>
+    <string name="GPP">3GPP</string>
+    <string name="PasteYoutubeLink">Paste youtube link</string>
+    <string name="Checking">Checking...</string>
+    <string name="Image">Image</string>
+    <string name="NoVideo">Video does NOT exist!!!</string>
+    <string name="ErrorNetwork">Network error!!!\n check your connection.</string>
+    <string name="Loading">Loading</string>
+</resources>
